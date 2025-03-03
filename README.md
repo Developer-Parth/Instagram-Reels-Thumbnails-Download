@@ -2,7 +2,7 @@
 
 🚀 **Easily Download Instagram Reels & Thumbnails in One Click!**  
 
-![Preview](preview.png)  
+![Preview](preview.jpg)  
 
 ---  
 
@@ -67,7 +67,7 @@ python main.py
 ## 🖼 UI Preview  
 Here's how the application looks:  
 
-![Preview](preview.png)  
+![Preview](preview.jpg)  
 
 ---  
 

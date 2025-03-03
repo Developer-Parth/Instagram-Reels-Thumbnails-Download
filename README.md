@@ -111,7 +111,8 @@ This project is open-source under the **MIT License**. Feel free to contribute. 
 ---  
 
 ## 👨‍💻 Author  
-Developed by **Parth Thukral** 🏆  
+Developed by **Parth Thukral** 🏆
+![Signature](signature.png)
 
 ---  
 
